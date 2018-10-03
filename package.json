@@ -1,0 +1,25 @@
+{
+  "name": "omni-food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  },
+  "devDependencies": {},
+  "hompage":"https://nhht77.github.io/Omni-food",
+  "scripts": {
+    "deploy":"gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhht77/Omni-Food.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhht77/Omni-Food/issues"
+  },
+  "homepage": "https://github.com/nhht77/Omni-Food#readme"
+}
